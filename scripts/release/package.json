@@ -21,7 +21,7 @@
     "prompt-promise": "^1.0.3",
     "request-promise-json": "^1.0.4",
     "semver": "^5.4.1",
-    "snyk": "^1.370.1"
+    "snyk": "^1.425.4"
   },
   "snyk": true
 }
